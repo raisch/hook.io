@@ -1,3 +1,20 @@
+## Update:
+
+I hope to be improving/extending `hook.io` over the next months to include:
+
+- **refactoring reliance on `dnode` into a plugable transport**
+- **adding new transports - the first should be 0mg**
+- **adding loadable hook handlers for default node module, i.e. util, fs, dns, net, http, etc.**
+
+in an effort to create an event-driven programming environment.
+
+## Note:
+
+The only change so far is updating package.json to use `weak@0.x.x` instead of the current semver since
+I've been unable to get it to build on Fedora.
+
+/rr
+
 
 <img src="http://i.imgur.com/S2rgr.png"></img>
 
