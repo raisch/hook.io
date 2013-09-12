@@ -38,7 +38,7 @@
 		"semver": "1.0.x",
 		"prompt": "0.1.x",
 		"portfinder": "0.2.x",
-		"weak": "0.1.5",
+		"weak": "0.x.x",
 		"socket.io": "0.9.6",
 		"socket.io-client": "0.9.6",
 		"lazy": ">=1.0.5 <1.1",
